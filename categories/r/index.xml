@@ -2,25 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on FullJoin</title>
-    <link>/categories/r/</link>
+    <link>https://fulljoinblog.github.io/categories/r/</link>
     <description>Recent content in R on FullJoin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fulljoinblog.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/blog/2015/07/23/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Kit de sobrevivência em R - Parte 2: Operações, Variáveis e Funções</title>
+      <link>https://fulljoinblog.github.io/blog/2016/03/25/2018-03-09-teste/</link>
+      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2015/07/23/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>https://fulljoinblog.github.io/blog/2016/03/25/2018-03-09-teste/</guid>
+      <description>Seguindo a proposta da sequência Kit de sobrevivência em R, vamos aprofundar um pouco mais no funcionamento do R e como fazer uso disso. Nesse post trataremos sobre comandos de console, operações básicas, variáveis, funções, e script R no editor de códigos.
+Como dito no post anterior, o RStudio apresenta 4 janelas principais, cada uma com sua função. No entanto, podemos dizer que as duas janelas que você mais vai usar (no começo) são Editor de Códigos e o Console.</description>
     </item>
     
   </channel>
